@@ -1,4 +1,6 @@
-// Two strings s1 and s2 are given, merge characters of both the string alternatively starting from string s1, if one string is smaller in size append the remaining characters of other string.
+/* Two strings s1 and s2 are given, merge characters of both the 
+string alternatively starting from string s1, if one string is 
+smaller in size append the remaining characters of other string.*/
 //Difficulty Level - Easy
 class Solution {
 public:
